@@ -1,0 +1,6 @@
+[submodule "OpenCap/opencap-core"]
+	path = OpenCap/opencap-core
+	url = https://github.com/stanfordnmbl/opencap-core.git
+[submodule "OpenCap/opencap-processing"]
+	path = OpenCap/opencap-processing
+	url = https://github.com/stanfordnmbl/opencap-processing.git
