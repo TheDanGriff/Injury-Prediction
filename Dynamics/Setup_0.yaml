@@ -72,17 +72,17 @@ cutoff_freq_Qs: 30
 filter_Qdds_toTrack: true
 filter_Qds_toTrack: true
 filter_Qs_toTrack: true
-height_m: 1.65
+height_m: 1.9
 ignorePassiveFiberForce: true
 ipopt_tolerance: 3
-mass_kg: 54.0
+mass_kg: 108.0
 meshDensity: 100
 splineQds: true
 timeInterval:
-- 4.2
-- 6.2
+- 10.1
+- 12.1
 treadmill_speed: 0
-trial_name: TRJave75
+trial_name: Javelin100
 useExpressionGraphFunction: true
 weights:
   accelerationTrackingTerm: 50
