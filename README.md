@@ -1,4 +1,4 @@
-# Injury Prediction and Performance Optimization Using AI Computer Vision Pose Estimation
+# Injury Prediction and Performance Optimization Using Pose Estimation
 
 This project aims to leverage OpenCap's open-source motion capture software, in combination with OpenPose and OpenSim models, to gather biomechanical data and utilize machine learning to predict significant factors in athletic motions. This approach helps optimize training, detect asymmetries, and prevent overtraining-related injuries in athletes.
 
